@@ -1,0 +1,21 @@
+{
+  "name": "Chatopia",
+  "version": "1.0.0",
+  "description": "A chatbot made by Tejas aka Visa2Code to cure loneliness",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Tejas Lamba#1924",
+  "license": "DBAD",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.6.0",
+    "express": "^4.18.2",
+    "glob": "^8.0.3",
+    "mongoose": "^6.7.2",
+    "node-fetch": "^3.3.1",
+    "visa2discord": "^1.0.8"
+  }
+}
