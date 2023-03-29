@@ -69,6 +69,7 @@ Do remove these comments or else it will give error(`//`)
   Now te final step. Run `npm install` and it will install all necessary packages. At last run `npm run start` or `node .`
   <br>
   **And your bot should be up and running!**
+# For Emojis [Click here]P)(https://api.tejas404.xyz/discord "Rainbow Studios")
 
 ## Problems? or cant host it?
 
@@ -84,11 +85,11 @@ That's it Thanks for contributing!
 
 # License
 
-[ISC License](https://github.com/TajuModding/Discord.js-V13-Command-Handler/blob/main/LICENSE)
+[DBAD License](https://github.com/The-Rainbow-Studios/Chatopia/blob/main/LICENSE.md)
 
 # Support
 
-For support join our [discord support server](https://discord.gg/xtessK2DPA).
+For support join our [discord support server](https://api.tejas404.xyz/discord).
 
 # Authors
 
