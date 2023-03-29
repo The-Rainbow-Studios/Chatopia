@@ -47,8 +47,8 @@ crash_channel_ID=
 ```
 
 Fore replit users head over to the Secrets tab<br>
-![image](image_2.png)
-And add these values<br>
+![image](image_2.png) <br>
+And add these values <br>
 ![image](image_3.png)
 
 - Step 2 <br>
