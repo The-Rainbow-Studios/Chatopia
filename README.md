@@ -70,7 +70,7 @@ Do remove these comments or else it will give error(`//`)
   <br>
   **And your bot should be up and running!**<br>
 **For Emojis [Click here](https://api.tejas404.xyz/discord "Rainbow Studios")**
-<br>
+
 ## Problems? or cant host it?
 
 Well I also run a public version of chatopia. You can invite it by clicking [here](https://api.tejas404.xyz/chatopia_invite "Invite Chatopia!"). Anyways you can ask help in my support server by clicking [here](https://api.tejas404.xyz/discord "Rainbow Studios")
