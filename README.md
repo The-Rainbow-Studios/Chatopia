@@ -1,6 +1,6 @@
 ![profile](profile.png)
 
-# Chatopia | Open source free chatbot
+# Chatopia | Open source chatbot
 
 > Making connections happen
 
@@ -10,7 +10,7 @@
 
 ## What API does it use?
 
-> Chatopia usses [Tejas404 API](https://api.tejas404.xyz/ "Visit their site") to get the functionality of the chatbot. The `ChatGPT` Function is API Key only so you may require it.
+> Chatopia uses [Tejas404 API](https://api.tejas404.xyz/ "Visit their site") to get the functionality of the chatbot. The `ChatGPT` Function is API Key only so you may require it.
 
 #### How to get the API Key?
 
@@ -46,7 +46,7 @@ Support_server_ID=
 crash_channel_ID=
 ```
 
-Fore replit users head over to the Secrets tab<br>
+For replit users head over to the Secrets tab<br>
 ![image](image_2.png) <br>
 And add these values <br>
 ![image](image_3.png)
