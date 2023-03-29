@@ -69,7 +69,7 @@ Do remove these comments or else it will give error(`//`)
   Now te final step. Run `npm install` and it will install all necessary packages. At last run `npm run start` or `node .`
   <br>
   **And your bot should be up and running!**<br>
-# For Emojis [Click here]P)(https://api.tejas404.xyz/discord "Rainbow Studios")
+**For Emojis [Click here](https://api.tejas404.xyz/discord "Rainbow Studios")**
 <br>
 ## Problems? or cant host it?
 
