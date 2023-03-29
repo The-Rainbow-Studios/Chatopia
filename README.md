@@ -25,35 +25,35 @@
 
 #### For People making a youtube video on it
 
-> There should be a line in your video description
+> There should be a line in your video description <br>
 
 ```
 Credits to visa2code - https://youtube.com/@visa2code
 His discord server - https://discord.gg/nP2fB7M4Xf
 ```
 
-> Any video not following this will be taken down!
+> Any video not following this will be taken down!<br>
 
 ## Setup Chatopia
 
 - Step 1 <br>
   Create a `.env` file with this template
-
+<br>
 ```
 tejas404_api_key=
 openai_key=
 Support_server_ID=
 crash_channel_ID=
 ```
-
-Fore replit users head over to the Secrets tab
+<br>
+Fore replit users head over to the Secrets tab<br>
 ![image](image_2.png)
-And add these values
+And add these values<br>
 ![image](image_3.png)
 
 - Step 2 <br>
   Fill or create a `config.json` file with this template
-
+<br>
 ```json
 {
   "token": "", //You Bot token
@@ -61,27 +61,27 @@ And add these values
   "OwnerId": "" //Your ID
 }
 ```
-
+<br>
 Tip: [How to get a mongodb URL?](https://www.youtube.com/watch?v=RQMWKRlMtH0 "YouTube Video") <br>
 Do remove these comments or else it will give error(`//`)
-
+<br>
 - Step 3 <br>
   Now te final step. Run `npm install` and it will install all necessary packages. At last run `npm run start` or `node .`
   <br>
-  **And your bot should be up and running!**
+  **And your bot should be up and running!**<br>
 # For Emojis [Click here]P)(https://api.tejas404.xyz/discord "Rainbow Studios")
-
+<br>
 ## Problems? or cant host it?
 
 Well I also run a public version of chatopia. You can invite it by clicking [here](https://api.tejas404.xyz/chatopia_invite "Invite Chatopia!"). Anyways you can ask help in my support server by clicking [here](https://api.tejas404.xyz/discord "Rainbow Studios")
 
 ## Contributing
 
-Steps to contribute:
+Steps to contribute:<br>
 
-![Contirbute](https://i.imgur.com/qN2RoJF.png)
+![Contirbute](https://i.imgur.com/qN2RoJF.png)<br>
 
-That's it Thanks for contributing!
+That's it Thanks for contributing!<br>
 
 # License
 
