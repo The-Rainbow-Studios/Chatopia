@@ -38,14 +38,14 @@ His discord server - https://discord.gg/nP2fB7M4Xf
 
 - Step 1 <br>
   Create a `.env` file with this template
-<br>
+
 ```
 tejas404_api_key=
 openai_key=
 Support_server_ID=
 crash_channel_ID=
 ```
-<br>
+
 Fore replit users head over to the Secrets tab<br>
 ![image](image_2.png)
 And add these values<br>
@@ -53,7 +53,7 @@ And add these values<br>
 
 - Step 2 <br>
   Fill or create a `config.json` file with this template
-<br>
+
 ```json
 {
   "token": "", //You Bot token
@@ -61,7 +61,7 @@ And add these values<br>
   "OwnerId": "" //Your ID
 }
 ```
-<br>
+
 Tip: [How to get a mongodb URL?](https://www.youtube.com/watch?v=RQMWKRlMtH0 "YouTube Video") <br>
 Do remove these comments or else it will give error(`//`)
 <br>
