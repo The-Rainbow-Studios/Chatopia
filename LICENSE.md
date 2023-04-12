@@ -1,7 +1,5 @@
 # DON'T BE A DICK PUBLIC LICENSE
 
-[Source](https://github.com/philsturgeon/dbad)
-
 > Version 1.2, February 2021
 
 > Copyright (C) 2023 Tejas Lamba
