@@ -93,4 +93,4 @@ For support join our [discord support server](https://api.tejas404.xyz/discord).
 
 # Authors
 
-- [@TajuModding](https://github.com/TajuModding)
+- [@TejasLamba2006](https://github.com/TejasLamba2006)
