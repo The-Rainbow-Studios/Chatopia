@@ -23,7 +23,7 @@ module.exports = {
         )
         .setDescription("Chatbot is already disabled")
         .setColor("	#ffa500")
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
       interaction.reply({
         embeds: [embed72],
         ephemeral: true,
@@ -39,7 +39,7 @@ module.exports = {
         )
         .setDescription("Successfully disabled chatbot")
         .setColor("#ffa500")
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
       interaction.reply({
         embeds: [embed72],
         ephemeral: true,

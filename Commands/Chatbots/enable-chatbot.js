@@ -48,7 +48,7 @@ module.exports = {
           "<:space:1090250824883646566> I don't have permissions for this"
         )
         .setColor("#FF0000")
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
       interaction.reply({
         embeds: [embed122],
         ephemeral: true,
@@ -67,7 +67,7 @@ module.exports = {
             "We are sorry! But you can't create more than one chatbot channel try running `/disable-chatbot` first`"
           )
           .setColor("#FF0000")
-          .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+          .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
         interaction.reply({
           embeds: [embed22],
           ephemeral: true,
@@ -90,7 +90,7 @@ module.exports = {
             .toString()} | Mission Success!`
         )
         .setDescription(`Successfully enabled chatbot`)
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
         .setColor("#00ff00");
       interaction.reply({
         embeds: [embed23],
@@ -107,7 +107,7 @@ module.exports = {
           "Chatbot Anti Crash System been enabled for this channel"
         )
         .setColor("ffc0cb")
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
 
       const embed = new EmbedBuilder()
         .setTitle(
@@ -116,7 +116,7 @@ module.exports = {
             .toString()} Chatopia Notify!`
         )
         .setDescription("Chatbot has been enabled for this channel")
-        .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+        .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
         .setColor("ffc0cb");
 
       channel.send({ embeds: [embed] });

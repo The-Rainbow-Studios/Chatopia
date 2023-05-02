@@ -8,7 +8,7 @@ module.exports = {
     const embedA = new EmbedBuilder()
       .setDescription(`Pong! - \`${client.ws.ping}\``)
       .setColor("ffc0cb")
-      .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+      .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
     interaction.reply({
       embeds: [embedA],
       ephemeral: true,

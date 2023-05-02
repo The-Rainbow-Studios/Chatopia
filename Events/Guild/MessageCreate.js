@@ -56,7 +56,7 @@ module.exports = {
             `It looks like that the that Anti Crash System protected Chatbot from crashing\nError: **${err}**\nNote: *If you are a developer please check the console for more information.*`
           )
           .setColor("#FF0000")
-          .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+          .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
           .setTimestamp();
         console.log(err);
         crash.send({ embeds: [embed] });

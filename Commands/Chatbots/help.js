@@ -18,14 +18,14 @@ module.exports = {
       .setTitle(`<:chatopia:1089968931059531828> Welcome To chatopia`)
       .setDescription("Click on the buttons for the options")
       .setColor("#e51fba")
-      .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+      .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
       .setImage(
         `https://api.tejas404.xyz/image/profileimage?userid=${client.user.id}&customTag=Free%20chatbot&customBackground=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1089895722649931788%2F1090309652509642763%2F400x100.png&badgesFrame=true&tagColor=e51fba&borderColor=e51fba&presenceStatus=online&key=${client.tejas404_api_key}`
       );
 
     const cmds_embed = new EmbedBuilder()
       .setTitle(`<:chatopia:1089968931059531828> Help`)
-      .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+      .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
       .addFields([
         {
           name: "`/enable-chatbot`",
@@ -56,14 +56,14 @@ module.exports = {
       .setDescription(
         `Join my support server by click on the button below or [here](https://api.tejas404.xyz/discord 'Rainbow Studios')`
       )
-      .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`);
+      .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`});
 
     const what_is_chatopia = new EmbedBuilder()
       .setTitle(`<:chatopia:1089968931059531828> What is Chatopia?`)
       .setDescription(
         `Chatopia is a <:Discord:1090247152904716328> Discord bot that conducts a conversation with a human end user. This type of technology is designed to simulate a conversation with a human visitor. It becomes smatter the more you talk it! As bots become smarter and more sophisticated, the more organized their conversations become!`
       )
-      .setFooter(`© Rainbow Studios 2021 - ${new Date().getFullYear()}`)
+      .setFooter({text: `© Rainbow Studios 2021 - ${new Date().getFullYear()}`})
       .setColor("#e51fba");
     //--------Buttons----\\
     let cmds = new ButtonBuilder()
